@@ -1,5 +1,7 @@
 # ControlVersiones
 
+Commands:
+
 - git status: revisar el estado local
 
 - git add.: va a cambiar el estado de los archivos a staged
